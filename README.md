@@ -6,7 +6,7 @@ MusicVerse is a responsive web application built to explore Telugu/Tollywood art
 
 ## Live Demo
 
-https://YOUR-USERNAME.github.io/MusicVerse/
+https://naga-poojitha.github.io/MusicVerse/
 
 ## Features
 
